@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 50px auto;
+}
+input{
+    margin-bottom: 10px;
+    height: 40px;
+    padding: 10px ;
+    border-radius: 7px ;
+    border: 1px solid #dddddd;
+    outline: none;
+    
+}
+.name-input-dev{
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-between;
+}
+.name-input{
+    width: 49%;
+}
+
+button{
+    height: 40px;
+    border-radius: 7px ;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
