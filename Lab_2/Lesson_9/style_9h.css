@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0px ;
+    margin: 0px;
+}
+div{
+    text-align: center;
+}
+input{
+    width: 500px;
+    height: 40px;
+    border-radius: 20px ;
+    border: none;
+    box-shadow: 0px 0px 7px 1px #c8c8c8;
+    padding: 10px 15px;
+    margin-top: 10px;
+    outline: none;
+}
+
+img{
+    margin-top: 60px;
+    width: 400px;
+} 
+button{
+    border: none;
+    margin: 30px 10px 0px 0px;
+    padding: 15px 20px;
+    font-weight: bold;
+}
