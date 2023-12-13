@@ -1,0 +1,17 @@
+img{
+    width: 40px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+input{
+    border: none;
+}
+button{
+    padding: 5px 10px;
+    border-radius: 20px ;
+    border: none;
+    background-color: #1DA1F2;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}

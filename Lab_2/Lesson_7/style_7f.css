@@ -12,28 +12,20 @@ form {
     margin: 50px auto;
 }
 input{
-    margin-bottom: 10px;
-    height: 40px;
-    padding: 10px ;
-    border-radius: 7px ;
-    border: 1px solid #dddddd;
-    outline: none;
+    height: 30px;
+    margin: 10px 0px ;
 }
-.name-input-dev{
-    display: flex;
-    flex-direction: row;   
-    justify-content: space-between;
+p{
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 15px;
 }
-.name-input{
-    width: 49%;
-}
-
 button{
     height: 40px;
-    border-radius: 7px ;
+    border-radius: 20px ;
     border: none;
     background-color: blue;
     color: white;
-    font-weight: bold;
     cursor: pointer;
+    margin-top: 10px;
+    font-size: 17px;
 }
